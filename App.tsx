@@ -17,7 +17,7 @@ export const App = () => {
     }}>
     
 
-      <SafeAreaView style={{height:500}}>
+      <SafeAreaView style={{flex:1}}>
         {/* <CounterScreen></CounterScreen> */}
         {/* <HelloWorldScreen name='Piero Martell Falcon'></HelloWorldScreen> */}
         {/*<CounterM3Screen></CounterM3Screen>*/}
